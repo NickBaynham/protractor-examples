@@ -1,0 +1,27 @@
+{
+  "name": "protractor-examples",
+  "version": "1.0.0",
+  "description": "Protractor Examples with matching web pages",
+  "main": "npm test",
+  "scripts": {
+    "test": "protractor conf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBaynham/protractor-examples.git"
+  },
+  "keywords": [
+    "protractor",
+    "examples",
+    "promises"
+  ],
+  "author": "Nick Baynham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickBaynham/protractor-examples/issues"
+  },
+  "homepage": "https://github.com/NickBaynham/protractor-examples#readme",
+  "devDependencies": {
+    "protractor": "^5.1.2"
+  }
+}
